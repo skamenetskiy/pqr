@@ -1,6 +1,8 @@
 # pqr
 Another postgres ORM like package. Deeply inspired by [reform](https://github.com/go-reform/reform) and [squirrel](https://github.com/Masterminds/squirrel).
 
+[![Tests](https://github.com/skamenetskiy/pqr/actions/workflows/tests.yml/badge.svg)](https://github.com/skamenetskiy/pqr/actions/workflows/tests.yml)
+
 ## Installation
 ```bash
 go get -u github.com/skamenetskiy/pqr
