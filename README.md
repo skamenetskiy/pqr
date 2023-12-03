@@ -2,6 +2,8 @@
 Another postgres ORM like package. Deeply inspired by [reform](https://github.com/go-reform/reform) and [squirrel](https://github.com/Masterminds/squirrel).
 
 [![Tests](https://github.com/skamenetskiy/pqr/actions/workflows/tests.yml/badge.svg)](https://github.com/skamenetskiy/pqr/actions/workflows/tests.yml)
+[![GoDoc](https://pkg.go.dev/badge/github.com/skamenetskiy/pqr)](https://pkg.go.dev/github.com/skamenetskiy/pqr) 
+[![Go Report](https://goreportcard.com/badge/github.com/skamenetskiy/pqr)](https://goreportcard.com/report/github.com/skamenetskiy/pqr)
 
 ## Installation
 ```bash
