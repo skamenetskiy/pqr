@@ -1,3 +1,3 @@
 module github.com/skamenetskiy/pqr
 
-go 1.21
+go 1.20
